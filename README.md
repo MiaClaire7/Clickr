@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="96" alt="Clickr Logo"/>
+  <img src="https://raw.githubusercontent.com/MiaClaire7/Clickr/main/assets/clickr_logo.png" width="96" alt="Clickr Logo"/>
 </p>
 
 <p align="center">
