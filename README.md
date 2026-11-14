@@ -20,6 +20,14 @@
 
 ---
 
+## 📱 App Screenshot
+
+<p align="center">
+  <img src="assets/clickr_screenshot.png" width="300" alt="Clickr App Screenshot"/>
+</p>
+
+---
+
 ## ✨ Key Features
 
 * **📖 Ergonomic Page Controls**: Side-by-side, touch-optimized **Page Back** and **Page Forward** buttons designed for effortless one-handed reading.
