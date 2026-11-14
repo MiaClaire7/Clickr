@@ -38,11 +38,17 @@
 * **Hardware**: Android device with Bluetooth LE (BLE) Peripheral advertising support.
 
 ### Compatible Kindle Devices
-Clickr works with Kindle models that support Bluetooth accessibility features and remote page turners (refer to [Amazon's Official Kindle Bluetooth Guide](https://www.amazon.com/gp/help/customer/display.html?nodeId=T4Es1zUH4B8nnqvRfS)):
-* **Kindle Scribe** (All generations)
-* **Kindle Paperwhite** (11th Generation / 2021 and newer, including Signature Edition)
-* **Kindle Oasis** (9th & 10th Generation)
-* **Kindle** (11th Generation / 2022 and newer)
+Clickr works with Kindle models supporting Bluetooth accessibility features and remote accessories (based on [Amazon's Official Kindle Bluetooth Guide](https://www.amazon.com/gp/help/customer/display.html?nodeId=T4Es1zUH4B8nnqvRfS)):
+* Kindle 2026
+* Kindle Paperwhite 2026
+* Kindle Colorsoft 2026
+* Kindle 2024
+* Kindle Paperwhite 2024
+* Kindle Colorsoft 2024
+* Kindle Scribe - 2024 Release
+* Kindle Scribe (without Front Light)
+* Kindle Scribe - 3rd Generation
+* Kindle Scribe Colorsoft (1st Generation)
 
 ---
 
