@@ -8,6 +8,10 @@
   <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="96" alt="Clickr Logo"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/MiaClaire7/Clickr/releases/latest"><b>📥 Download Latest APK</b></a>
+</p>
+
 ---
 
 ## 📖 Overview
@@ -46,7 +50,7 @@
 
 ## 👨‍💻 Original Creator & Acknowledgments
 
-* **Core BLE HID Library & Original Implementation**: Created by **K. Shoji** ([kshoji/BLE-HID-Peripheral-for-Android](https://github.com/kshoji/BLE-HID-Peripheral-for-Android)). 
+* **Forked From / Original Creator**: This project is a modernized fork of [kshoji/BLE-HID-Peripheral-for-Android](https://github.com/kshoji/BLE-HID-Peripheral-for-Android) created by **K. Shoji**.
 * **UI Redesign & Modernization**: Rebranded and redesigned as **Clickr** with a modern light aesthetic, custom vector iconography, and optimized screen-off ergonomics.
 
 ---
