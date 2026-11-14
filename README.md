@@ -50,7 +50,8 @@
 
 ## 👨‍💻 Original Creator & Acknowledgments
 
-* **Forked From / Original Creator**: This project is a modernized fork of [kshoji/BLE-HID-Peripheral-for-Android](https://github.com/kshoji/BLE-HID-Peripheral-for-Android) created by **K. Shoji**.
+* **Original BLE HID Library**: Created by **K. Shoji** ([kshoji/BLE-HID-Peripheral-for-Android](https://github.com/kshoji/BLE-HID-Peripheral-for-Android)).
+* **Kindle Click Implementation / Base**: Based on [zuyan9/Open-Kindle-Click-Android](https://github.com/zuyan9/Open-Kindle-Click-Android).
 * **UI Redesign & Modernization**: Rebranded and redesigned as **Clickr** with a modern light aesthetic, custom vector iconography, and optimized screen-off ergonomics.
 
 ---
