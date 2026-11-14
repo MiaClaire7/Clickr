@@ -20,14 +20,6 @@
 
 ---
 
-## 📱 App Screenshot
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MiaClaire7/Clickr/main/assets/clickr_screenshot.png" width="300" alt="Clickr App Screenshot"/>
-</p>
-
----
-
 ## ✨ Key Features
 
 * **📖 Ergonomic Page Controls**: Side-by-side, touch-optimized **Page Back** and **Page Forward** buttons designed for effortless one-handed reading.
@@ -39,11 +31,18 @@
 
 ---
 
-## ⚙️ Requirements
+## ⚙️ Requirements & Compatible Devices
 
+### Android Requirements
 * **Android Version**: Android 5.0 (API Level 21) or higher.
-* **Hardware**: Device with Bluetooth LE (BLE) Peripheral advertising support.
-* **Compatible Kindles**: Tested and verified with Kindle Scribe, Kindle Paperwhite, and other Kindle firmware versions supporting Bluetooth page turners.
+* **Hardware**: Android device with Bluetooth LE (BLE) Peripheral advertising support.
+
+### Compatible Kindle Devices
+Clickr works with Kindle models that support Bluetooth accessibility features and remote page turners (refer to [Amazon's Official Kindle Bluetooth Guide](https://www.amazon.com/gp/help/customer/display.html?nodeId=T4Es1zUH4B8nnqvRfS)):
+* **Kindle Scribe** (All generations)
+* **Kindle Paperwhite** (11th Generation / 2021 and newer, including Signature Edition)
+* **Kindle Oasis** (9th & 10th Generation)
+* **Kindle** (11th Generation / 2022 and newer)
 
 ---
 
