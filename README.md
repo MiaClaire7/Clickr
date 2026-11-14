@@ -23,7 +23,7 @@
 ## 📱 App Screenshot
 
 <p align="center">
-  <img src="assets/clickr_screenshot.png" width="300" alt="Clickr App Screenshot"/>
+  <img src="https://raw.githubusercontent.com/MiaClaire7/Clickr/main/assets/clickr_screenshot.png" width="300" alt="Clickr App Screenshot"/>
 </p>
 
 ---
