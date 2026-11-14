@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_joystick"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColor"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".JoystickActivity">
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        app:cardBackgroundColor="@color/surfaceColor"
+        app:cardCornerRadius="24dp"
+        app:cardElevation="0dp"
+        app:strokeColor="@color/surfaceBorder"
+        app:strokeWidth="1dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:lineSpacingExtra="3dp"
+                android:text="@string/joystick_hint"
+                android:textColor="@color/textSecondary"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/leftButton"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_marginEnd="6dp"
+            android:layout_weight="1"
+            android:text="Left"
+            android:textColor="@color/textPrimary"
+            android:textSize="15sp"
+            app:backgroundTint="@color/surfaceVariant"
+            app:cornerRadius="30dp"
+            app:elevation="0dp" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/middleButton"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="6dp"
+            android:layout_marginEnd="6dp"
+            android:layout_weight="1"
+            android:text="Middle"
+            android:textColor="@color/textPrimary"
+            android:textSize="15sp"
+            app:backgroundTint="@color/surfaceVariant"
+            app:cornerRadius="30dp"
+            app:elevation="0dp" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/rightButton"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="6dp"
+            android:layout_weight="1"
+            android:text="Right"
+            android:textColor="@color/textPrimary"
+            android:textSize="15sp"
+            app:backgroundTint="@color/surfaceVariant"
+            app:cornerRadius="30dp"
+            app:elevation="0dp" />
+    </LinearLayout>
+</LinearLayout>

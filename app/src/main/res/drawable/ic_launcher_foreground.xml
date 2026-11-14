@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clickr C Logo Outer Arc -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,20 C35.2,20 20,35.2 20,54 C20,72.8 35.2,88 54,88 C66.5,88 77.4,81.2 83.2,71 L73.5,65.4 C69.7,71.8 62.4,76 54,76 C41.8,76 32,66.2 32,54 C32,41.8 41.8,32 54,32 C62.4,32 69.7,36.2 73.5,42.6 L83.2,37 C77.4,26.8 66.5,20 54,20 Z" />
+    <!-- Clickr Page Turn Forward Arrow Inside C -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M64,44 L80,54 L64,64 Z" />
+</vector>

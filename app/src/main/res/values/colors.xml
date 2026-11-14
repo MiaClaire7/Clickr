@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Glowra Brand Palette (Lavender & Purple) -->
+    <color name="colorPrimary">#7C3AED</color>
+    <color name="colorPrimaryVariant">#6D28D9</color>
+    <color name="colorAccent">#8B5CF6</color>
+    <color name="colorSecondary">#DDD6FE</color>
+
+    <!-- Backgrounds & Surfaces (Glowra Light Aesthetic) -->
+    <color name="backgroundColor">#F6F4FF</color>
+    <color name="surfaceColor">#FFFFFF</color>
+    <color name="surfaceBorder">#1A7C3AED</color>
+    <color name="surfaceVariant">#F3F0FF</color>
+
+    <!-- Card Accents & Gradients -->
+    <color name="heroCardBg">#E9D5FF</color>
+    <color name="heroCardBgDark">#C4B5FD</color>
+    <color name="pillActiveBg">#7C3AED</color>
+    <color name="pillActiveText">#FFFFFF</color>
+    <color name="pillInactiveBg">#EDE9FE</color>
+    <color name="pillInactiveText">#6D28D9</color>
+
+    <!-- Text Palette -->
+    <color name="textPrimary">#1E1B4B</color>
+    <color name="textSecondary">#64748B</color>
+    <color name="textMuted">#94A3B8</color>
+    <color name="textAccent">#7C3AED</color>
+
+    <!-- Action Buttons -->
+    <color name="buttonPrimaryBg">#7C3AED</color>
+    <color name="buttonPrimaryText">#FFFFFF</color>
+    <color name="buttonSecondaryBg">#EDE9FE</color>
+    <color name="buttonSecondaryText">#6D28D9</color>
+    <color name="buttonDangerBg">#FEE2E2</color>
+    <color name="buttonDangerText">#EF4444</color>
+
+    <!-- Status Badge Colors -->
+    <color name="statusBg">#EDE9FE</color>
+    <color name="statusText">#6D28D9</color>
+
+    <!-- Launcher Icon Background -->
+    <color name="ic_launcher_background">#7C3AED</color>
+</resources>

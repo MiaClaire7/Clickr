@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Clickr</string>
+    <string name="app_subtitle">Kindle Page Turner Remote</string>
+    <string name="c_logo">C</string>
+    <string name="g_logo">C</string>
+    <string name="hello">Hello World!</string>
+    <string name="requires_bl_enabled">This app requires Bluetooth to be enabled.</string>
+    <string name="ble_perip_not_supported">Bluetooth LE Peripheral mode is not supported on this device. The app will exit.</string>
+    <string name="not_supported">Not supported</string>
+    <string name="ok">OK</string>
+    <string name="ble_joystick">BLE Joystick</string>
+    <string name="ble_keyboard">BLE Keyboard</string>
+    <string name="ble_mouse">BLE Mouse</string>
+    <string name="ble_hid">BLE HID</string>
+    <string name="kindle_click">Clickr</string>
+
+    <string name="greeting_title">Hello, Reader</string>
+    <string name="greeting_sub">Ready to turn some pages ✨</string>
+    <string name="view_more">View more ></string>
+    <string name="quick_controls">Quick Controls</string>
+    <string name="page_forward_card_title">Turn Page Forward</string>
+    <string name="page_forward_card_sub">Tap or press volume keys to turn</string>
+    <string name="watch_now">Turn Page  →</string>
+
+    <string name="featured_remote">FEATURED REMOTE</string>
+    <string name="kindle_page_turner">Kindle Page Turner</string>
+    <string name="kindle_remote_desc">Turn pages, adjust light, and put your Kindle to sleep via Bluetooth LE.</string>
+    <string name="open_kindle_remote">Open Kindle Remote  ▶</string>
+    <string name="other_ble_profiles">OTHER BLE HID PROFILES</string>
+    <string name="mouse_relative">Mouse (Relative Touchpad)</string>
+    <string name="mouse_absolute">Mouse (Absolute Pointer)</string>
+    <string name="keyboard_controller">Keyboard Controller</string>
+    <string name="joystick_controller">Joystick Controller</string>
+
+    <string name="remote_status_header">Kindle Connection</string>
+    <string name="display_power_header">Display &amp; Power Controls</string>
+    <string name="battery_reporting_header">Battery Reporting</string>
+    <string name="next_page_btn">▶  Page Forward</string>
+    <string name="previous_page_btn">◄  Page Back</string>
+    <string name="sleep_btn">🌙  Sleep Kindle (Hold)</string>
+
+    <string name="next_page">Page forward</string>
+    <string name="previous_page">Page back</string>
+    <string name="brightness_down">Light −</string>
+    <string name="brightness_up">Light +</string>
+    <string name="sleep">Sleep (hold)</string>
+    <string name="sleep_hint">Hold to put the Kindle to sleep</string>
+    <string name="phone_battery">Report phone battery level</string>
+    <string name="battery_level">Battery level shown on Kindle: %1$d%%</string>
+    <string name="status_starting">Starting Clickr remote…</string>
+    <string name="status_waiting">Waiting for Kindle… connect from Kindle Settings › Bluetooth devices.</string>
+    <string name="status_stale_link">Kindle connected from previous session. Re-enable Bluetooth to reconnect.</string>
+    <string name="status_handles_moved">Kindle connected. Please reconnect Clickr on Kindle to update layout.</string>
+    <string name="status_handles_too_high">Bluetooth handles reset required. Toggle phone\'s Bluetooth.</string>
+    <string name="status_bluetooth_off">Bluetooth is off. Turn on Bluetooth to start Clickr.</string>
+    <string name="status_connected">Kindle connected! Volume keys turn pages anytime.</string>
+
+    <string name="touchpad_area">TOUCHPAD AREA</string>
+    <string name="mouse_hint">Pair this device with another Bluetooth LE host. Then tap or drag this device\'s screen.\n\nTap with two fingers for right click.</string>
+    <string name="keyboard_hint">Pair this device with another Bluetooth LE host. Input text below and tap Send to transmit keystrokes.</string>
+    <string name="keyboard_type_hint">Type text to send…</string>
+    <string name="send_keystrokes">Send Keystrokes</string>
+    <string name="joystick_hint">Pair this device with another Bluetooth LE host. Rotate your device to control joystick movement.</string>
+    <string name="absolute_mouse_notice">Notice: Absolute Pointer mode is supported on macOS.</string>
+    <string name="absolute_mouse_hint">Pair this device with another Bluetooth LE host. Tap or drag on the screen.\n\nTwo-finger tap counts as a right click.</string>
+</resources>
