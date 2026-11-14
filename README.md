@@ -1,15 +1,13 @@
-# Clickr
+# <img src="https://raw.githubusercontent.com/MiaClaire7/Clickr/main/assets/clickr_logo.png" width="48" height="48" align="middle" alt="Clickr Logo"/> Clickr
 
 <p align="center">
   <strong>Bluetooth LE Kindle Page Turner Remote for Android</strong>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MiaClaire7/Clickr/main/assets/clickr_logo.png" width="96" alt="Clickr Logo"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MiaClaire7/Clickr/releases/latest"><b>📥 Download Latest APK</b></a>
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Platform"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/MiaClaire7/Clickr/releases/latest"><img src="https://img.shields.io/badge/Release-APK%20Download-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/></a>
 </p>
 
 ---
